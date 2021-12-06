@@ -1,0 +1,29 @@
+name : rutik
+ Addres : nagar
+ Age : 10
+ Gender :male
+ Phone : 6666666666
+ Payments :gpay
+
+name : chetan
+ Addres : pune
+ Age : 19
+ Gender :male
+ Phone : 6464664464
+ Payments :gpay
+
+
+name : 
+ Addres : ghgbfg
+ Age : 
+ Gender :
+ Phone : 
+ Payments :
+
+name : 
+ Addres : wqwqwwqwq
+ Age : w
+ Gender :
+ Phone : 
+ Payments :
+

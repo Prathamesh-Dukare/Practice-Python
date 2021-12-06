@@ -1,0 +1,31 @@
+PAck ;                 
+anchor  direction nw ne etc
+side    top bottom 
+fill
+padx pady                                       
+
+label ; 
+text
+bd
+fg
+font 
+padx pady
+relief border style Sunken raised groove ridge
+
+
+var classes in python
+Boolianvar
+DoubleVar
+Intvar
+stringvar
+
+
+
+
+root.wm_iconbitmap('file.ico')
+root.configure(background='red')
+ 
+in button command=root.destroy to close gui
+
+width=root.winfo_screenwidth()
+height=root.winfo_screenheight()
